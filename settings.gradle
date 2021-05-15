@@ -1,0 +1,2 @@
+rootProject.name = "OGMeme"
+include ':app'
