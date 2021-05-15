@@ -10,7 +10,7 @@ A small size basic app to view and share memes with others.
 # Meme Generator Api Link
 https://meme-api.herokuapp.com/gimme
 
-# GLide Library Dependency
+# Glide Library Dependency
 implementation 'com.github.bumptech.glide:glide:4.11.0'
 
 annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
