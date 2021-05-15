@@ -7,7 +7,7 @@ A small size basic app to view and share memes with others.
 <img src="https://github.com/nsonthalia1/OGMeme/blob/master/b.jpeg" width="250px" height="450px" style="max-width:100%;">
 <img src="https://github.com/nsonthalia1/OGMeme/blob/master/c.jpeg" width="250px" height="450px" style="max-width:100%;">
 
-# Meme Generator Api Link
+# Meme Generator API Link
 https://meme-api.herokuapp.com/gimme
 
 # Glide Library Dependency
